@@ -4,7 +4,7 @@
 This is a landing page with product cards displayed for various t-shirt options for purchase, along with specs for each t-shirt.
 
 ## Screenshots
-![Product Cards Preview](https://raw.githubusercontent.com/ConnorSullivan10/pizza-maker/master/screenshots/pizzamakerscreenshot.PNG)
+![Product Cards Preview](https://raw.githubusercontent.com/ConnorSullivan10/product-cards/master/screenshots/productcards.PNG)
 
 ## How to run
 * Clone down this project
